@@ -1,2 +1,6 @@
 Contenido del archivo 2
 Contenido del segundo commit
+
+Contenido para diff
+contenido para diff
+contenido para diff
