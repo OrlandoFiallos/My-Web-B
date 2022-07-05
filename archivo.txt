@@ -4,3 +4,6 @@ Contenido del segundo commit
 Contenido para diff
 contenido para diff
 contenido para diff
+
+Contenido para la nueva rama B
+Contenido para la nueva rama B
